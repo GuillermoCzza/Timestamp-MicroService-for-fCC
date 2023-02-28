@@ -5,3 +5,5 @@ Node.js application that serves a webpage when GETting the root ("/"), or the in
 In order to choose the port, you must fill it out in the .env file. It's 3000 by default.
  
 Made from freeCodeCamp's boilerplate code for the Timestamp Microservice project (https://github.com/freeCodeCamp/boilerplate-project-timestamp/).
+
+(Frontend is unmodified from the one provided by freeCodeCamp for testing)
